@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 'singerle blog'
 subtitle: ''
-description: ''
-keywords:
-author: John Doe
+description: 'Blogs of singerle'
+keywords: 'javaScript'
+author: 'singerle'
 language: en
 timezone: ''
 
